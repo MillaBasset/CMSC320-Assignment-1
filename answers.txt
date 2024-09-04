@@ -6,3 +6,10 @@ Q2: What field could data science be applied to? Give an example and how it migh
 
 Answer: Automated data collection is beginning to grow as a technology. However, there still needs to be a human on the collecting end to filter the data appropriately so it is useful to a certain audience. This is where data science is applicable, as it studies the best ways to make use of a large pile of numbers.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging two branches together creates a new commit with the changes of both branches within the same commit. Rebasing lines up all commits on both branches into the same history so that it remains perfectly linear.
+
+Q3(?): What skills do you hope to improve during this course?
+
+Answer: I hope to gain new lens with which to view data through and have a better understanding of how to organize and present big data.
